@@ -1,0 +1,52 @@
+Jan 1	Friday	New Year's Day	Optional Holiday
+Feb 10	Wednesday	Ash Wednesday	Optional Holiday
+Feb 14	Sunday	Valentine's Day	Observance
+Feb 21	Sunday	Language Martyrs' Day	Public Holiday
+Mar 2	Wednesday	National Flag Day	Observance
+Mar 7	Monday	Maha Shivaratri	Hindu Holiday
+Mar 17	Thursday	Sheikh Mujibur Rahman’s birthday	Public Holiday
+Mar 20	Sunday	March equinox	Season
+Mar 24	Thursday	Holi	Hindu Holiday
+Mar 24	Thursday	Maundy Thursday	Optional Holiday
+Mar 25	Friday	Good Friday	Optional Holiday
+Mar 26	Saturday	Independence Day	Public Holiday
+Mar 26	Saturday	Holy Saturday	Optional Holiday
+Mar 27	Sunday	Easter Day	Optional Holiday
+Mar 28	Monday	Easter Monday	Optional Holiday
+Apr 14	Thursday	Bengali New Year	Public Holiday
+May 1	Sunday	May Day	Public Holiday
+May 5	Thursday	Shab-e-Meraj	Optional Holiday
+May 8	Sunday	Mothers' Day	Observance
+May 21	Saturday	Buddha Purnima/Vesak	National holiday
+May 23	Monday	Shab e-Barat	Public Holiday
+Jun 19	Sunday	Fathers' Day	Observance
+Jun 20	Monday	June Solstice	Season
+Jul 1	Friday	Jumatul Bidah	Public Holiday
+Jul 1	Friday	July 1 Bank Holiday	Bank Holiday
+Jul 3	Sunday	Night of Destiny	Public Holiday
+Jul 4	Monday	Eid ul-Fitr (extra holiday)	National holiday
+Jul 5	Tuesday	Eid ul-Fitr (extra holiday)	National holiday
+Jul 6	Wednesday	Eid ul-Fitr	Public Holiday
+Jul 7	Thursday	Eid ul-Fitr Holiday Day 2	Public Holiday
+Jul 8	Friday	Eid ul-Fitr Holiday Day 3	Public Holiday
+Jul 9	Saturday	Eid ul-Fitr Holiday Day 4	Optional Holiday
+Aug 15	Monday	National Mourning Day	Public Holiday
+Aug 18	Thursday	Raksha Bandhan	Hindu Holiday
+Aug 25	Thursday	Janmashtami	Public Holiday
+Sep 5	Monday	Ganesh Chaturthi	Hindu Holiday
+Sep 12	Monday	Eid ul-Adha Day 2	Public Holiday
+Sep 13	Tuesday	Eid ul-Adha	Public Holiday
+Sep 13	Tuesday	Eid ul-Adha Day 3	Public Holiday
+Sep 14	Wednesday	Eid ul-Adha Day 4	Public Holiday
+Sep 22	Thursday	September equinox	Season
+Oct 2	Sunday	Navaratri	Hindu Holiday
+Oct 11	Tuesday	Dussehra	Hindu Holiday
+Oct 11	Tuesday	Ashura	Public Holiday
+Oct 31	Monday	Halloween	Observance
+Dec 13	Tuesday	Eid e-Milad-un Nabi	Public Holiday
+Dec 16	Friday	Victory Day	Public Holiday
+Dec 21	Wednesday	December Solstice	Season
+Dec 24	Saturday	Christmas Eve	Optional Holiday
+Dec 25	Sunday	Christmas Day	Public Holiday
+Dec 26	Monday	Boxing Day	Optional Holiday
+Dec 31	Saturday	New Year's Eve	Bank Holiday

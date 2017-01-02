@@ -1,0 +1,14 @@
+HTTrack3.48-22+htsswf+htsjava launched on Wed, 14 Dec 2016 13:45:00 at http://preview.themeforest.net/item/ruaha-personal-blog-bootstrap-template/full_screen_preview/11579020?_ga=1.261001866.623260549.1481697321 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://preview.themeforest.net/item/ruaha-personal-blog-bootstrap-template/full_screen_preview/11579020?_ga=1.261001866.623260549.1481697321 -O1 "C:\xampp\htdocs\My Web Sites\dsa" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:45:11	Error: 	"Gone" (410) at link preview.themeforest.net/item/ruaha-personal-blog-bootstrap-template/full_screen_preview/&quot;http://themeforest.net/user/mannatstudio/follow&quot;&gt;&lt;img (from preview.themeforest.net/item/ruaha-personal-blog-bootstrap-template/full_screen_preview/11579020?_ga=1.261001866.623260549.1481697321)
+13:45:11	Error: 	"Gone" (410) at link preview.themeforest.net/item/ruaha-personal-blog-bootstrap-template/full_screen_preview/&quot;http:..." (from preview.themeforest.net/item/ruaha-personal-blog-bootstrap-template/full_screen_preview/11579020?_ga=1.261001866.623260549.1481697321)
+13:45:11	Error: 	"Gone" (410) at link preview.themeforest.net/item/ruaha-personal-blog-bootstrap-template/full_screen_preview/linkid.js (from preview.themeforest.net/item/ruaha-personal-blog-bootstrap-template/full_screen_preview/11579020?_ga=1.261001866.623260549.1481697321)
+
+HTTrack Website Copier/3.48-22 mirror complete in 11 seconds : 16 links scanned, 12 files written (416725 bytes overall) [173517 bytes received at 15774 bytes/sec], 340786 bytes transferred using HTTP compression in 5 files, ratio 26%, 2.2 requests per connection
+(3 errors, 0 warnings, 0 messages)
